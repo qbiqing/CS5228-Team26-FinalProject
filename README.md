@@ -22,3 +22,6 @@ This folder contains 5 files: "neural_net_model.ipynb" and "neural_net_model.py"
 
 ### Stock_nb.ipynb
 This notebook contains all the steps in the way of analysing and incorporating the stock data, along with correlation heatmaps.
+
+### xgboost_utils.py
+This file contains all the methods that transform the data using finalized methods for data cleaning, preprocessing, encoding, and auxiliary data addition. The resultant data can be passed to the models for training and generating the final prediction.
