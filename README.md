@@ -19,6 +19,9 @@ This notebook consists of EDA plots and other graphs/figures.
 ### Figures-2.ipynb
 This notebook consists of additional EDA plots and other graphs/figures used in the report.
 
+### Kaggle Submission Code.ipynb
+This notebook consists of code to generate the csv to be uploaded to the kaggle competition.
+
 ### Model Comparison.ipynb
 This notebook compares three different tree ensemble methods
 
