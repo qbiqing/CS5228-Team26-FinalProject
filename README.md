@@ -13,6 +13,9 @@ This notebook contains the code for selecting the parameters to use in auxiliary
 ### Encoding.ipynb
 This notebook compares the different types of encoding for the categorical columns
 
+### Figures.ipynb
+This notebook consists of all the EDA plots and other graphs/figures
+
 ### Model Comparison.ipynb
 This notebook compares three different tree ensemble methods
 
