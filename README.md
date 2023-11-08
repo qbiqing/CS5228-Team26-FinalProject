@@ -2,6 +2,10 @@
 
 This repository contains the code for data mining methods and models to predict HDB flat rental prices in Singapore.
 
+### Given data sets
+
+The files "train.csv", "test.csv" and the folder "auxiliary-data" were provided to us as the raw datasets to be utilized.
+
 ### Auxiliary Data and Hyperparameter Tuning.ipynb
 
 This notebook contains the code for selecting the parameters to use in auxiliary data incorporation, and XGBoost Regressor model hyperparamter tuning.
